@@ -30,7 +30,7 @@ text-align: center;
 font-size: 1rem;
 border-bottom-right-radius:70px;
 margin-top: 30px;
-outline: 2px solid gray ;
+outline: 1px green;
 
 `
 export const Main =styled.div`
